@@ -1,4 +1,1 @@
-(() => {
-  "use strict";
-  $("#root").html("Hello World");
-})();
+(()=>{"use strict";$("#root").html("Hello World")})();
